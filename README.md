@@ -4,6 +4,10 @@ High Level
 3.	Uses descriptive activity names to name the activities in the data set
 4.	Appropriately labels the data set with descriptive activity names.
 5.	Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+
+
+
 Process
 1.	Loads the reshape2 library as its need to use the methods melt and  dcast and hence need to make sure we have reshape2
 2.	Sets the file name 
